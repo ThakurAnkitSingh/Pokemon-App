@@ -1,0 +1,33 @@
+.searchBar {
+    align-items: center;
+    /* border: 2px solid white; */
+    display: flex;
+    justify-content: center;
+}
+
+
+.input-searchBar {
+    border-top: 2px solid rgb(119 85 207);
+    border-bottom: 2px solid rgb(119 85 207);
+    width: 500px;
+    background: transparent;
+    height: 50px;
+    text-align: center;
+    border-radius: 25px;
+    font-size: 25px;
+    color: red;
+}
+
+.btn {
+    border-radius: 30px;
+    width: 150px;
+    height: 57px;
+    font-size: 30px;
+    color: white;
+    background: darkred;
+    margin-left: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
